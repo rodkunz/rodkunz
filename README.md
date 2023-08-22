@@ -1,7 +1,7 @@
 ### Hi, I'm Rodrigo Kunz 👨‍💻
 
 - 🔭 I’m currently working on Front-end and mobile Developer
-- 🌱 I’m currently learning Node.js 
+- 🌱 I’m currently learning Node.js and React.js
 
 
  <div style="display: inline_block"><br>
