@@ -1,6 +1,7 @@
 ### Hi, I'm Rodrigo Kunz 👨‍💻
 
-> Developer fullstack in constant evolution! 
+- 🔭 I’m currently working on Front-end and mobile Developer
+- 🌱 I’m currently learning Node.js 
 
 
  <div style="display: inline_block"><br>
