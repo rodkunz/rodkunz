@@ -1,7 +1,7 @@
 ### Hi, I'm Rodrigo Kunz 👨‍💻
 
-- 🔭 I’m currently working on Front-end and mobile Developer
-- 🌱 I’m currently learning Node.js and React.js
+- 🔭 I am currently working as a Junior Fullstack Developer at Atto Intelligence
+- 🌱 I'm currently improving myself in Node.js, React.js, Angular and other current tools on the market
 
 
  <div style="display: inline_block"><br>
