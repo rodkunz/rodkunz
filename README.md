@@ -1,7 +1,6 @@
 ### Hi, I'm Rodrigo Kunz 👨‍💻
 
-- 🔭 I am currently working as a Junior Fullstack Developer at Atto Intelligence
-- 🌱 I'm currently improving myself in Node.js, React.js, Angular and other current tools on the market
+- 🔭 I currently work as a Quality Analyst at Atto Intelligence.
 
 
  <div style="display: inline_block"><br>
